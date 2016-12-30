@@ -1,3 +1,4 @@
+% My implementation of harris corner detector
 % Author: Yiren Lu
 % luyiren@seas.upenn.edu
 % Date: 11/06/2016
@@ -11,7 +12,7 @@ function [cimg] = corner_detector(img)
         img = rgb2gray(img);
     end
     
-    % my own implementation of harris corner detector
+    
     a = 0.4;
     G = [1/4 - a/2, 1/4, a, 1/4, 1/4 - a/2];
     dx = G - [G(2:5) 0];
