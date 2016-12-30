@@ -54,7 +54,7 @@ see `mymosaic.m`
 
 ## Presentation [Slides](presentation_slides.pdf)
 
-[![presentation slides](results/slides_ransac.png)](presentation_slides.pdf "slides")
+[![presentation slides](results/slides_ransac.jpg)](presentation_slides.pdf "slides")
 
 ## More Results
 ![dataset1](results/ds1_smooth.jpg "dataset1")
