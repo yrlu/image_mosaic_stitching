@@ -62,3 +62,7 @@ see `mymosaic.m`
 ![dataset3](results/ds3_smooth.jpg "dataset3")
 
 ![dataset4](results/ds4_smooth.jpg "dataset4")
+
+## License
+
+The contents of this repository are licensed under the [MIT License.](https://en.wikipedia.org/wiki/MIT_License)
