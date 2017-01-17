@@ -50,7 +50,7 @@ see `mymosaic.m`
 
 - See `demo.m`
 - More datasets could be downloaded here: 
-  <https://upenn.box.com/s/2klod8hmm139gfqwbgvj56dg3s9chppn>
+  <https://drive.google.com/file/d/0Bw-gLvstCiC-T1JfeGdqQ2JBOTA/view?usp=sharing>
 
 ## Presentation [Slides](presentation_slides.pdf)
 
